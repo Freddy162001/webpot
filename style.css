@@ -456,6 +456,7 @@ font-size: 1.8rem;
           display: none;
 
         }
+      }
         .navbar a{
           display: block;
           font-size: 2rem;
@@ -467,7 +468,7 @@ font-size: 1.8rem;
           display: block;
         }
         .gradient-btn{
-          display: none;
+          align-self: center;
         }
         .home{
           flex-direction: column-reverse;
@@ -494,4 +495,3 @@ font-size: 1.8rem;
         .about img{
           width: 52vw;
         }
-      }
